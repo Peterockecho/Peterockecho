@@ -1,16 +1,17 @@
-## Hi there 👋
+## Hi # Hi, I'm [Peterockecho]!
 
-<!--
-**Peterockecho/Peterockecho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Web3 Developer** passionate about building decentralized apps (dApps) using **Solidity**, **JavaScript**, and **Ethereum**.
 
-Here are some ideas to get you started:
+## What I’m working on:
+- A Web3 Marketplace dApp using Ethereum + Hardhat + Node.js
+- Learning advanced smart contract patterns
+- Contributing to open source
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+- Solidity | Ethers.js | Hardhat
+- Node.js | JavaScript | MongoDB (optional)
+- Git | GitHub | VS Code
+
+## Connect with me:
+- [Twitter](https://twitter.com/adoyipeter2)
+- [LinkedIn](https://linkedin.com/in/adoyipeter2)
